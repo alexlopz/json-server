@@ -1,0 +1,112 @@
+[
+    {
+        "ruta_numero":"9997",
+        "ruta_cpqq":"100.00",
+        "ruta_piloto":"FRANCISCO LAZARO",
+        "ruta_id":"9997-1618",
+        "ruta_fecha":"2018-03-21",
+        "ruta_placa":"C-347BNP",
+        "ruta_unidad":"1618",
+        "ruta_modelo":"2016",
+        "pedidos":[
+            {
+                "numero_pedido":"PED-278403",
+                "direccion":"7 Calle 5-19 Z.1 Huehuetenango ",
+                "codigo":"GT-000462",
+                "nombre":"Corporacion Vasquez & Sosa, S.A.",
+                "productos":[
+                    {
+                        "int_id":177,
+                        "descripcion":"T INI DEC MAY 600EXT CUAD2 1/2X3DX1.20MT",
+                        "bodega":"GT07010",
+                        "despachado":"0.00",
+                        "peso":"6.08",
+                        "codigo":"4861030080",
+                        "cantidad":"1.00"
+                        },
+                        {
+                        "int_id":181,
+                        "descripcion":"TUBO DECORATIVO TRENZADO 1/2 EXT,X 1MT",
+                        "bodega":"GT07010",
+                        "despachado":"0.00",
+                        "peso":"4.00",
+                        "codigo":"4861010005",
+                        "cantidad":"5.00"
+                        }
+                ]
+            },
+            {
+                "numero_pedido":"PED-278311",
+                "direccion":"Km. 5.5 Carr. Antigua A Chinautla Z. 6 Guatemala ",
+                "codigo":"GT-001399",
+                "nombre":"Forcogua",
+                "productos":[
+                    {
+                        "int_id":175,
+                        "descripcion":"LAMINA NEGRA 1/4\" X 4' X 8'",
+                        "bodega":"GT07001",
+                        "despachado":"0.00",
+                        "peso":"5227.20",
+                        "codigo":"5006355345",
+                        "cantidad":"16.00"
+                        },
+                        {
+                        "int_id":174,
+                        "descripcion":"TUBO ESTRUCT.CUAD.3/4\" CH18",
+                        "bodega":"GT07001",
+                        "despachado":"0.00",
+                        "peso":"64.47",
+                        "codigo":"2106095645",
+                        "cantidad":"7.00"
+                        }
+                    
+                ]
+            }
+            
+        ]
+    },
+    
+
+    {
+        "ruta_numero":"9997",
+        "ruta_cpqq":"100.00",
+        "ruta_piloto":"Joaquin Alfaro",
+        "ruta_id":"9997-1628",
+        "ruta_fecha":"2018-03-21",
+        "ruta_placa":"C-348BPN    ",
+        "ruta_unidad":"1628",
+        "ruta_modelo":"2016",
+        "pedidos":[
+            {
+                "numero_pedido":"PED-278275",
+                "direccion":"10 Calle 2-35 Zona 9 ",
+                "codigo":"GT-001324",
+                "nombre":"Sistemas Para Agua, S.A.",
+                "productos":[
+                    {
+                        "int_id":152,
+                        "descripcion":"HIERRO ANGULAR 3/16 X 1 3/4",
+                        "bodega":"GT07001",
+                        "despachado":"0.00",
+                        "peso":"1682.00",
+                        "codigo":"4036345705",
+                        "cantidad":"40.00"
+                    },
+                    {
+                        "int_id":156,
+                        "descripcion":"COSTANERA GALV. 4\" X 2\" X 1.50 MM",
+                        "bodega":"GT07001",
+                        "despachado":"0.00",
+                        "peso":"5238.40",
+                        "codigo":"1009120285",
+                        "cantidad":"160.00"
+                    }
+                    
+                ]
+            }
+            
+        ]
+    }   
+]
+
+
